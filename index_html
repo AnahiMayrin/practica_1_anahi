@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="utf-8"
+<meta name="viewport" content="width=device-width">
+<title href="index.css" rel="stylesheet" type="text/css" />
+<link href?="index.css" rel="stylesheet" type="text/css" />
+</head>
+<boby>
+   <scrip src="index.js"></scrip>
+   <h1>Bienvenidos a nuesra Aplicacios Web</h1>
+   <h2 class="headertwo">Registra lo siguentes datos</h2>
+   <p class="headertwo">Peso:
+   <imput type="text" Placeholder="en Kilogramos"id="peso">
+   <h1>Bienvenidos a nuestra Aplicacion Web</h1>
+   <h2>class="headertwo">Registra los siguientes Datos</h2>
+   <p class=headertwo">Altura
+   <imput mtype="tyt"pleaceholder="en metros"id"alturas"
+   <button type="button"onClick="getIMC>Calcula</button>
+   <p>Su IMC es:<a id=!imc">0</a></p>
+   </body>
+   </html>
